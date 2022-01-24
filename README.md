@@ -1,7 +1,5 @@
 # Blender-Node-Layout-Organizer
 
-# Blender-Node-Layout-Organizer
-
 This is a work in progress Addon to help automatically organise node layouts based on the work done by [JuhaW's Node Arrange Addon](https://github.com/JuhaW/NodeArrange) that is already part of the official blender Addons. (The code is in JuhaW's page is outdated, if you want the latest version of his code you will have to check the code for in blender's own addon folder)
 
 I am currently working on it in my freetime to improve/change some of its functionality.
