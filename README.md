@@ -29,3 +29,4 @@ These are some sites I am using to research this:
 1. https://llimllib.github.io/pymag-trees/
 2. https://mindfusion.eu/graph-layout.html
 3. https://www.baeldung.com/cs/graph-auto-layout-algorithm
+4. https://crinkles.io/writing/auto-graph-layout-algorithm
