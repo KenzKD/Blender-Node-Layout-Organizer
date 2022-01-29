@@ -32,4 +32,4 @@ These are some sites I am using to research this:
 4. https://crinkles.io/writing/auto-graph-layout-algorithm
 5. https://docs.yworks.com/yfiles-html/dguide/layout/layout-summary.html#layout_styles-hierarchical
 6. https://docs.yworks.com/yfiles-html/dguide/layout/hierarchical_layout.html#hierarchical_layout-grouping
-7. https://docs.yworks.com/yfiles-html/dguide/layout/layout-summary.html#_node_types_in_the_hierarchical_layout (check the one without node types)
+7. https://docs.yworks.com/yfiles-html/dguide/layout/layout-summary.html#_node_types_in_the_hierarchical_layout
