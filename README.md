@@ -24,3 +24,6 @@ This is a work in progress Addon to help automatically organise node layouts bas
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65004578/151657179-7072e5fc-5ee8-4248-83bc-13d8c78b4f21.png" width=75% height=75%>
 </p>
+
+These are some sites I am using to research this:
+1. https://llimllib.github.io/pymag-trees/
