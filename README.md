@@ -27,9 +27,12 @@ This is a work in progress Addon to help automatically organise node layouts bas
 
 These are some sites I am using to research this:
 1. https://llimllib.github.io/pymag-trees/
-2. https://mindfusion.eu/graph-layout.html
-3. https://www.baeldung.com/cs/graph-auto-layout-algorithm
-4. https://crinkles.io/writing/auto-graph-layout-algorithm
-5. https://docs.yworks.com/yfiles-html/dguide/layout/layout-summary.html#layout_styles-hierarchical
-6. https://docs.yworks.com/yfiles-html/dguide/layout/hierarchical_layout.html#hierarchical_layout-grouping
-7. https://docs.yworks.com/yfiles-html/dguide/layout/layout-summary.html#_node_types_in_the_hierarchical_layout
+2. https://www.wikiwand.com/en/Layered_graph_drawing
+3. https://mindfusion.eu/graph-layout.html
+4. https://www.baeldung.com/cs/graph-auto-layout-algorithm
+5. https://crinkles.io/writing/auto-graph-layout-algorithm
+6. https://docs.yworks.com/yfiles-html/dguide/layout/layout-summary.html#layout_styles-hierarchical
+7. https://docs.yworks.com/yfiles-html/dguide/layout/hierarchical_layout.html#hierarchical_layout-grouping
+8. https://docs.yworks.com/yfiles-html/dguide/layout/layout-summary.html#_node_types_in_the_hierarchical_layout
+9. https://github.com/subhero24/sugiyama/tree/master/src
+10. https://www.youtube.com/playlist?list=PLubYOWSl9mIvxe_HwoSyT-oXgkOmB1u3V
