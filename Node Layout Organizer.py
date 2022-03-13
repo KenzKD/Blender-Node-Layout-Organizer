@@ -29,6 +29,19 @@ bl_info = {
     "category": "Node"
 }
 
+#Original Code Author
+bl_info = {
+    "name": "Node Arrange",
+    "author": "JuhaW",
+    "version": (0, 2, 2),
+    "blender": (2, 80, 4),
+    "location": "Node Editor > Properties > Trees",
+    "description": "Node Tree Arrangement Tools",
+    "warning": "",
+    "doc_url": "{BLENDER_MANUAL_URL}/addons/node/node_arrange.html",
+    "tracker_url": "https://github.com/JuhaW/NodeArrange/issues",
+    "category": "Node"
+}
 
 import sys
 import bpy
