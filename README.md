@@ -36,3 +36,4 @@ These are some sites I am using to research this:
 8. https://docs.yworks.com/yfiles-html/dguide/layout/layout-summary.html#_node_types_in_the_hierarchical_layout
 9. https://github.com/subhero24/sugiyama/tree/master/src
 10. https://www.youtube.com/playlist?list=PLubYOWSl9mIvxe_HwoSyT-oXgkOmB1u3V
+11. https://github.com/bdcht/grandalf
