@@ -2,6 +2,12 @@
 
 This is a work in progress Addon to help automatically organise node layouts based on the work of the [Node Arrange an Official Addon](https://github.com/blender/blender-addons/blob/master/node_arrange.py). I am currently working on it in my freetime to improve/change some of its functionality. As of now I have not changed much of the origianl code and have been researching solutions.
 
+## Features to be Implemented
+- [ ] 1) Implement Rudimentary Sugiyama Layout 
+- [ ] 2) Add alignment options
+- [ ] 3) Make it compatible with groups/frames
+- [ ] 4) Add group/frame options
+
 ## As of now these are the current possibile ways to arrange Nodes in Blender that I have found:
 
 1. Manual Arrangement (My Original Layout)
