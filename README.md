@@ -1,6 +1,6 @@
 # Blender-Node-Layout-Organizer
 
-This is a work in progress Addon to help automatically organise node layouts based on the work of the [Node Arrange an Official Addon](https://github.com/blender/blender-addons/blob/master/node_arrange.py). I am currently working on it in my freetime to improve/change some of its functionality. As of now I have not changed much of the origianl code and have been researching solutions.
+This is a work in progress Addon to help automatically organise node layouts based on the work of the [Node Arrange an Official Addon](https://github.com/blender/blender-addons/blob/master/node_arrange.py). I am currently working on it in my freetime to improve/change some of its functionality. As of now I have not changed much of the original code and have been researching solutions and features that I wish to implement.
 
 ## Features to be Implemented
 - [ ] 1) Implement Rudimentary Sugiyama Layout 
