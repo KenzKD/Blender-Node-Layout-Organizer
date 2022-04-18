@@ -26,7 +26,7 @@ This is a work in progress Addon to help automatically organise node layouts bas
   <img src="https://user-images.githubusercontent.com/65004578/150722935-9228f256-45c7-4ffe-b764-6215ae38877a.png" width=75% height=75%>
 </p>
 
-4. [Node Wrangler an Official Addon](https://github.com/blender/blender-addons/blob/master/node_wrangler.py) (I hit the node align button. Its utility seems to be more in arranging a few nodes at a into either a row or a column but it wont arrange for both, leading to it rearranging it to align all the nodes into a single row.
+4. [Node Wrangler an Official Addon](https://github.com/blender/blender-addons/blob/master/node_wrangler.py) (I hit the node align button. Its utility seems to be more in arranging all the nodes into either a single row or a column but it wont arrange for both.)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65004578/151657179-7072e5fc-5ee8-4248-83bc-13d8c78b4f21.png" width=75% height=75%>
 </p>
